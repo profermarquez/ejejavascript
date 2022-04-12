@@ -1,0 +1,2 @@
+# ejejavascript
+Ejercicio javascript.
